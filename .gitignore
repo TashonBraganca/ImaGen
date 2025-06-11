@@ -1,0 +1,8 @@
+[debug.log](http://_vscodecontentref_/1)
+logs/
+models/
+output/
+__pycache__/
+*.pyc
+*.log
+*.safetensors
