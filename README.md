@@ -84,6 +84,14 @@ If you encounter any issues:
    - Verify your prompt is valid
    - Try reducing the batch size or image dimensions
 
+## Sample Outputs
+
+Click the links below to view sample output images:
+
+- [Generated Image 1](output/generated_1749645124_0.png)
+- [Generated Image 2](output/generated_1749645188_0.png)
+- [Test Generation](output/test_generation.png)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
@@ -96,4 +104,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - [SimianLuo](https://github.com/SimianLuo) for the LCM Dreamshaper model
 - [Gradio](https://gradio.app/) for the interface framework
-- [Diffusers](https://github.com/huggingface/diffusers) library 
+- [Diffusers](https://github.com/huggingface/diffusers) library
